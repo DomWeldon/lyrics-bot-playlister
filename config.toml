@@ -1,3 +1,7 @@
 [lyrics-bot-playlister.lyrics]
-root_url = "https://www.azlyrics.com/n/national.html"
+root_url = "https://www.azlyrics.com"
+song_list_url = "/n/national.html"
 band_name = "The National"
+
+[lyrics-bot-playlister.scraper]
+sleep_time_seconds = 1

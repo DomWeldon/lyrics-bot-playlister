@@ -1,0 +1,358 @@
+<div id="listAlbum">
+<div id="9752" class="album">album: <b>"The National"</b> (2001)</div>
+<div class="listalbum-item"><a href="../lyrics/national/beautifulhead.html" target="_blank">Beautiful Head</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/coldgirlfever.html" target="_blank">Cold Girl Fever</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/theperfectsong.html" target="_blank">The Perfect Song</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/americanmary.html" target="_blank">American Mary</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/son.html" target="_blank">Son</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/payforme.html" target="_blank">Pay For Me</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/bittersabsolut.html" target="_blank">Bitters &amp; Absolut</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/johnsstar.html" target="_blank">John's Star</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/watchingyouwell.html" target="_blank">Watching You Well</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/theoryofthecrows.html" target="_blank">Theory Of The Crows</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/29years.html" target="_blank">29 Years</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/annafreud.html" target="_blank">Anna Freud</a></div>
+
+<div id="9753" class="album">album: <b>"Sad Songs For Dirty Lovers"</b> (2003)</div>
+<div class="listalbum-item"><a href="../lyrics/national/cardinalsong.html" target="_blank">Cardinal Song</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/slippinghusband.html" target="_blank">Slipping Husband</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/90milewaterwall.html" target="_blank">90-Mile Water Wall</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/itneverhappened.html" target="_blank">It Never Happened</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/murdermerachael.html" target="_blank">Murder Me Rachael</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/thirsty.html" target="_blank">Thirsty</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/available.html" target="_blank">Available</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/sugarwife.html" target="_blank">Sugar Wife</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/trophywife.html" target="_blank">Trophy Wife</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/fashioncoat.html" target="_blank">Fashion Coat</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/patternsoffairytales.html" target="_blank">Patterns Of Fairytales</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/luckyyou102085.html" target="_blank">Lucky You</a></div>
+
+<div id="9755" class="album">EP: <b>"Cherry Tree"</b> (2004)</div>
+<div class="listalbum-item"><a href="../lyrics/national/waspnest.html" target="_blank">Wasp Nest</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/allthewine.html" target="_blank">All The Wine</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/alldolledupinstraps.html" target="_blank">All Dolled-Up In Straps</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/cherrytree.html" target="_blank">Cherry Tree</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/abouttoday.html" target="_blank">About Today</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/murdermerachael102102.html" target="_blank">Murder Me Rachael</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/reasonablemanidontmind.html" target="_blank">Reasonable Man (I Don't Mind)</a></div>
+
+<div id="9757" class="album">album: <b>"Alligator"</b> (2005)</div>
+<div class="listalbum-item"><a href="../lyrics/national/secretmeeting.html" target="_blank">Secret Meeting</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/karen.html" target="_blank">Karen</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/litup.html" target="_blank">Lit Up</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/lookingforastronauts.html" target="_blank">Looking For Astronauts</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/daughtersofthesohoriots.html" target="_blank">Daughters Of The Soho Riots</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/babywellbefine.html" target="_blank">Baby, We'll Be Fine</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/friendofmine.html" target="_blank">Friend Of Mine</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/valjester.html" target="_blank">Val Jester</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/allthewine102126.html" target="_blank">All The Wine</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/abel.html" target="_blank">Abel</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/thegeeseofbeverlyroad.html" target="_blank">The Geese Of Beverly Road</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/citymiddle.html" target="_blank">City Middle</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/mrnovember.html" target="_blank">Mr. November</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/thethrillingofclaire.html" target="_blank">The Thrilling Of Claire</a><div class="comment">(Special Edition Bonus Track)</div></div>
+<div class="listalbum-item"><a href="../lyrics/national/driversurpriseme.html" target="_blank">Driver, Surprise Me</a><div class="comment">(Special Edition Bonus Track)</div></div>
+
+<br><div id="RTK_UtnH"></div>
+<div id="9756" class="album">album: <b>"Boxer"</b> (2007)</div>
+<div class="listalbum-item"><a href="../lyrics/national/fakeempire.html" target="_blank">Fake Empire</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/mistakenforstrangers.html" target="_blank">Mistaken For Strangers</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/brainy.html" target="_blank">Brainy</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/squalorvictoria.html" target="_blank">Squalor Victoria</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/greengloves.html" target="_blank">Green Gloves</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/slowshow.html" target="_blank">Slow Show</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/apartmentstory.html" target="_blank">Apartment Story</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/startawar.html" target="_blank">Start A War</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/guestroom.html" target="_blank">Guest Room</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/racinglikeapro.html" target="_blank">Racing Like A Pro</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/ada.html" target="_blank">Ada</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/gospel.html" target="_blank">Gospel</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/blankslate102116.html" target="_blank">Blank Slate</a><div class="comment">(Japanese &amp; iTunes Bonus Track)</div></div>
+<div class="listalbum-item"><a href="../lyrics/national/santaclara102117.html" target="_blank">Santa Clara</a><div class="comment">(Japanese &amp; iTunes Bonus Track)</div></div>
+
+<div id="9751" class="album">EP: <b>"The Virginia EP"</b> (2008)</div>
+<div class="listalbum-item"><a href="../lyrics/national/youvedoneitagainvirginia.html" target="_blank">You've Done It Again, Virginia</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/santaclara.html" target="_blank">Santa Clara</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/blankslate.html" target="_blank">Blank Slate</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/tallsaintdemo.html" target="_blank">Tall Saint (Demo)</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/withoutpermission.html" target="_blank">Without Permission</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/foreverafterdaysdemo.html" target="_blank">Forever After Days (Demo)</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/restofyearsdemo.html" target="_blank">Rest Of Years (Demo)</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/slowshowdemo.html" target="_blank">Slow Show (Demo)</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/luckyyou.html" target="_blank">Lucky You</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/mansiononthehill.html" target="_blank">Mansion On The Hill</a></div>
+
+<div id="9754" class="album">album: <b>"High Violet"</b> (2010)</div>
+<div class="listalbum-item"><a href="../lyrics/national/terriblelove.html" target="_blank">Terrible Love</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/sorrow.html" target="_blank">Sorrow</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/anyonesghost.html" target="_blank">Anyone's Ghost</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/littlefaith.html" target="_blank">Little Faith</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/afraidofeveryone.html" target="_blank">Afraid Of Everyone</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/bloodbuzzohio.html" target="_blank">Bloodbuzz Ohio</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/lemonworld.html" target="_blank">Lemonworld</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/runaway.html" target="_blank">Runaway</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/conversation16.html" target="_blank">Conversation 16</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/england.html" target="_blank">England</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/vanderlylecrybabygeeks.html" target="_blank">Vanderlyle Crybaby Geeks</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/terriblelovealternateversion.html" target="_blank">Terrible Love (Alternate Version)</a><div class="comment">(Expanded Edition Bonus Track)</div></div>
+<div class="listalbum-item"><a href="../lyrics/national/wakeupyoursaints.html" target="_blank">Wake Up Your Saints</a><div class="comment">(Expanded Edition Bonus Track)</div></div>
+<div class="listalbum-item"><a href="../lyrics/national/youwereakindness.html" target="_blank">You Were A Kindness</a><div class="comment">(Expanded Edition Bonus Track)</div></div>
+<div class="listalbum-item"><a href="../lyrics/national/walkoff.html" target="_blank">Walk Off</a><div class="comment">(Expanded Edition Bonus Track)</div></div>
+<div class="listalbum-item"><a href="../lyrics/national/sineaters.html" target="_blank">Sin-Eaters</a><div class="comment">(Expanded Edition Bonus Track)</div></div>
+
+<br><div id="RTK_DMgi"></div>
+<div id="26829" class="album">album: <b>"Trouble Will Find Me"</b> (2013)</div>
+<div class="listalbum-item"><a href="../lyrics/national/ishouldliveinsalt.html" target="_blank">I Should Live In Salt</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/demons.html" target="_blank">Demons</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/dontswallowthecap.html" target="_blank">Don't Swallow The Cap</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/fireproof.html" target="_blank">Fireproof</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/seaoflove.html" target="_blank">Sea Of Love</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/heavenfaced.html" target="_blank">Heavenfaced</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/thisisthelasttime.html" target="_blank">This Is The Last Time</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/graceless.html" target="_blank">Graceless</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/slipped.html" target="_blank">Slipped</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/ineedmygirl.html" target="_blank">I Need My Girl</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/humiliation.html" target="_blank">Humiliation</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/pinkrabbits.html" target="_blank">Pink Rabbits</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/hardtofind.html" target="_blank">Hard To Find</a></div>
+
+<div id="47948" class="album">album: <b>"Sleep Well Beast"</b> (2017)</div>
+<div class="listalbum-item"><a href="../lyrics/national/nobodyelsewillbethere.html" target="_blank">Nobody Else Will Be There</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/dayidie.html" target="_blank">Day I Die</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/walkitback.html" target="_blank">Walk It Back</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/thesystemonlydreamsintotaldarkness.html" target="_blank">The System Only Dreams In Total Darkness</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/borntobeg.html" target="_blank">Born To Beg</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/turtleneck.html" target="_blank">Turtleneck</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/empireline.html" target="_blank">Empire Line</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/illstilldestroyyou.html" target="_blank">I'll Still Destroy You</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/guiltyparty.html" target="_blank">Guilty Party</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/carinattheliquorstore.html" target="_blank">Carin At The Liquor Store</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/darksideofthegym.html" target="_blank">Dark Side Of The Gym</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/sleepwellbeast.html" target="_blank">Sleep Well Beast</a></div>
+
+<div id="66345" class="album">album: <b>"I Am Easy To Find"</b> (2019)</div>
+<div class="listalbum-item"><a href="../lyrics/national/youhadyoursoulwithyou.html" target="_blank">You Had Your Soul With You</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/quietlight.html" target="_blank">Quiet Light</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/romanholiday.html" target="_blank">Roman Holiday</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/oblivions.html" target="_blank">Oblivions</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/thepullofyou.html" target="_blank">The Pull Of You</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/heyrosey.html" target="_blank">Hey Rosey</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/iameasytofind.html" target="_blank">I Am Easy To Find</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/whereisherhead.html" target="_blank">Where Is Her Head</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/notinkansas.html" target="_blank">Not In Kansas</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/sofarsofast.html" target="_blank">So Far So Fast</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/hairpinturns.html" target="_blank">Hairpin Turns</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/rylan.html" target="_blank">Rylan</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/lightyears.html" target="_blank">Light Years</a></div>
+
+<div class="album"><b>other songs:</b></div>
+<div class="listalbum-item"><a href="../lyrics/national/badstuffhappensinthebathroom.html" target="_blank">Bad Stuff Happens In The Bathroom</a><div class="comment">(from "The Bob's Burgers Music Album" compilation)</div></div>
+<div class="listalbum-item"><a href="../lyrics/national/christmasmagic.html" target="_blank">Christmas Magic</a><div class="comment">(from "The Bob's Burgers Music Album" compilation)</div></div>
+<div class="listalbum-item"><a href="../lyrics/national/exilevilify.html" target="_blank">Exile Vilify</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/giveittoteddyicanfixit.html" target="_blank">Give It To Teddy (I Can Fix It)</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/lean.html" target="_blank">Lean</a><div class="comment">(from "The Hunger Games: Catching Fire" soundtrack)</div></div>
+<div class="listalbum-item"><a href="../lyrics/national/nevertearusapart.html" target="_blank">Never Tear Us Apart</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/sailorsinyourmouth.html" target="_blank">Sailors In Your Mouth</a><div class="comment">(from "The Bob's Burgers Music Album" compilation)</div></div>
+<div class="listalbum-item"><a href="../lyrics/national/sofararoundthebend.html" target="_blank">So Far Around The Bend</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/sunshineonmyback.html" target="_blank">Sunshine On My Back</a></div>
+<div class="listalbum-item"><a href="../lyrics/national/therainsofcastamere.html" target="_blank">The Rains Of Castamere</a><div class="comment">(from "Game of Thrones" soundtrack)</div></div>
+<div class="listalbum-item"><a href="../lyrics/national/thinkyoucanwait.html" target="_blank">Think You Can Wait</a><div class="comment">(from "Win Win" soundtrack)</div></div>
+<div class="listalbum-item"><a href="../lyrics/national/turnonme.html" target="_blank">Turn On Me</a><div class="comment">(from "For The Throne" compilation)</div></div>
+
+<script type="text/javascript">
+<!--
+var songlist = [
+{s:"29 Years", h:"../lyrics/national/29years.html", c:"", a:""},
+{s:"90-Mile Water Wall", h:"../lyrics/national/90milewaterwall.html", c:"", a:""},
+{s:"Abel", h:"../lyrics/national/abel.html", c:"", a:""},
+{s:"About Today", h:"../lyrics/national/abouttoday.html", c:"", a:""},
+{s:"Ada", h:"../lyrics/national/ada.html", c:"", a:""},
+{s:"Afraid Of Everyone", h:"../lyrics/national/afraidofeveryone.html", c:"", a:""},
+{s:"All Dolled-Up In Straps", h:"../lyrics/national/alldolledupinstraps.html", c:"", a:""},
+{s:"All The Wine", h:"../lyrics/national/allthewine.html", c:"", a:"&quot;Cherry Tree&quot; EP"},
+{s:"All The Wine", h:"../lyrics/national/allthewine102126.html", c:"", a:"&quot;Alligator&quot; album"},
+{s:"American Mary", h:"../lyrics/national/americanmary.html", c:"", a:""},
+{s:"Anna Freud", h:"../lyrics/national/annafreud.html", c:"", a:""},
+{s:"Anyone's Ghost", h:"../lyrics/national/anyonesghost.html", c:"", a:""},
+{s:"Apartment Story", h:"../lyrics/national/apartmentstory.html", c:"", a:""},
+{s:"Available", h:"../lyrics/national/available.html", c:"", a:""},
+{s:"Baby, We'll Be Fine", h:"../lyrics/national/babywellbefine.html", c:"", a:""},
+{s:"Bad Stuff Happens In The Bathroom", h:"../lyrics/national/badstuffhappensinthebathroom.html", c:"", a:""},
+{s:"Beautiful Head", h:"../lyrics/national/beautifulhead.html", c:"", a:""},
+{s:"Bitters &amp; Absolut", h:"../lyrics/national/bittersabsolut.html", c:"", a:""},
+{s:"Blank Slate", h:"../lyrics/national/blankslate.html", c:"", a:"&quot;The Virginia EP&quot; EP"},
+{s:"Blank Slate", h:"../lyrics/national/blankslate102116.html", c:"", a:"&quot;Boxer&quot; album"},
+{s:"Bloodbuzz Ohio", h:"../lyrics/national/bloodbuzzohio.html", c:"", a:""},
+{s:"Born To Beg", h:"../lyrics/national/borntobeg.html", c:"", a:""},
+{s:"Brainy", h:"../lyrics/national/brainy.html", c:"", a:""},
+{s:"Cardinal Song", h:"../lyrics/national/cardinalsong.html", c:"", a:""},
+{s:"Carin At The Liquor Store", h:"../lyrics/national/carinattheliquorstore.html", c:"", a:""},
+{s:"Cherry Tree", h:"../lyrics/national/cherrytree.html", c:"", a:""},
+{s:"Christmas Magic", h:"../lyrics/national/christmasmagic.html", c:"", a:""},
+{s:"City Middle", h:"../lyrics/national/citymiddle.html", c:"", a:""},
+{s:"Cold Girl Fever", h:"../lyrics/national/coldgirlfever.html", c:"", a:""},
+{s:"Conversation 16", h:"../lyrics/national/conversation16.html", c:"", a:""},
+{s:"Dark Side Of The Gym", h:"../lyrics/national/darksideofthegym.html", c:"", a:""},
+{s:"Daughters Of The Soho Riots", h:"../lyrics/national/daughtersofthesohoriots.html", c:"", a:""},
+{s:"Day I Die", h:"../lyrics/national/dayidie.html", c:"", a:""},
+{s:"Demons", h:"../lyrics/national/demons.html", c:"", a:""},
+{s:"Don't Swallow The Cap", h:"../lyrics/national/dontswallowthecap.html", c:"", a:""},
+{s:"Driver, Surprise Me", h:"../lyrics/national/driversurpriseme.html", c:"", a:""},
+{s:"Empire Line", h:"../lyrics/national/empireline.html", c:"", a:""},
+{s:"England", h:"../lyrics/national/england.html", c:"", a:""},
+{s:"Exile Vilify", h:"../lyrics/national/exilevilify.html", c:"", a:""},
+{s:"Fake Empire", h:"../lyrics/national/fakeempire.html", c:"", a:""},
+{s:"Fashion Coat", h:"../lyrics/national/fashioncoat.html", c:"", a:""},
+{s:"Fireproof", h:"../lyrics/national/fireproof.html", c:"", a:""},
+{s:"Forever After Days (Demo)", h:"../lyrics/national/foreverafterdaysdemo.html", c:"", a:""},
+{s:"Friend Of Mine", h:"../lyrics/national/friendofmine.html", c:"", a:""},
+{s:"Give It To Teddy (I Can Fix It)", h:"../lyrics/national/giveittoteddyicanfixit.html", c:"", a:""},
+{s:"Gospel", h:"../lyrics/national/gospel.html", c:"", a:""},
+{s:"Graceless", h:"../lyrics/national/graceless.html", c:"", a:""},
+{s:"Green Gloves", h:"../lyrics/national/greengloves.html", c:"", a:""},
+{s:"Guest Room", h:"../lyrics/national/guestroom.html", c:"", a:""},
+{s:"Guilty Party", h:"../lyrics/national/guiltyparty.html", c:"", a:""},
+{s:"Hairpin Turns", h:"../lyrics/national/hairpinturns.html", c:"", a:""},
+{s:"Hard To Find", h:"../lyrics/national/hardtofind.html", c:"", a:""},
+{s:"Heavenfaced", h:"../lyrics/national/heavenfaced.html", c:"", a:""},
+{s:"Hey Rosey", h:"../lyrics/national/heyrosey.html", c:"", a:""},
+{s:"Humiliation", h:"../lyrics/national/humiliation.html", c:"", a:""},
+{s:"I Am Easy To Find", h:"../lyrics/national/iameasytofind.html", c:"", a:""},
+{s:"I Need My Girl", h:"../lyrics/national/ineedmygirl.html", c:"", a:""},
+{s:"I Should Live In Salt", h:"../lyrics/national/ishouldliveinsalt.html", c:"", a:""},
+{s:"I'll Still Destroy You", h:"../lyrics/national/illstilldestroyyou.html", c:"", a:""},
+{s:"It Never Happened", h:"../lyrics/national/itneverhappened.html", c:"", a:""},
+{s:"John's Star", h:"../lyrics/national/johnsstar.html", c:"", a:""},
+{s:"Karen", h:"../lyrics/national/karen.html", c:"", a:""},
+{s:"Lean", h:"../lyrics/national/lean.html", c:"", a:""},
+{s:"Lemonworld", h:"../lyrics/national/lemonworld.html", c:"", a:""},
+{s:"Light Years", h:"../lyrics/national/lightyears.html", c:"", a:""},
+{s:"Lit Up", h:"../lyrics/national/litup.html", c:"", a:""},
+{s:"Little Faith", h:"../lyrics/national/littlefaith.html", c:"", a:""},
+{s:"Looking For Astronauts", h:"../lyrics/national/lookingforastronauts.html", c:"", a:""},
+{s:"Lucky You", h:"../lyrics/national/luckyyou.html", c:"", a:"&quot;The Virginia EP&quot; EP"},
+{s:"Lucky You", h:"../lyrics/national/luckyyou102085.html", c:"", a:"&quot;Sad Songs For Dirty Lovers&quot; album"},
+{s:"Mansion On The Hill", h:"../lyrics/national/mansiononthehill.html", c:"", a:""},
+{s:"Mistaken For Strangers", h:"../lyrics/national/mistakenforstrangers.html", c:"", a:""},
+{s:"Mr. November", h:"../lyrics/national/mrnovember.html", c:"", a:""},
+{s:"Murder Me Rachael", h:"../lyrics/national/murdermerachael.html", c:"", a:"&quot;Sad Songs For Dirty Lovers&quot; album"},
+{s:"Murder Me Rachael", h:"../lyrics/national/murdermerachael102102.html", c:"", a:"&quot;Cherry Tree&quot; EP"},
+{s:"Never Tear Us Apart", h:"../lyrics/national/nevertearusapart.html", c:"", a:""},
+{s:"Nobody Else Will Be There", h:"../lyrics/national/nobodyelsewillbethere.html", c:"", a:""},
+{s:"Not In Kansas", h:"../lyrics/national/notinkansas.html", c:"", a:""},
+{s:"Oblivions", h:"../lyrics/national/oblivions.html", c:"", a:""},
+{s:"Patterns Of Fairytales", h:"../lyrics/national/patternsoffairytales.html", c:"", a:""},
+{s:"Pay For Me", h:"../lyrics/national/payforme.html", c:"", a:""},
+{s:"Pink Rabbits", h:"../lyrics/national/pinkrabbits.html", c:"", a:""},
+{s:"Quiet Light", h:"../lyrics/national/quietlight.html", c:"", a:""},
+{s:"Racing Like A Pro", h:"../lyrics/national/racinglikeapro.html", c:"", a:""},
+{s:"Reasonable Man (I Don't Mind)", h:"../lyrics/national/reasonablemanidontmind.html", c:"", a:""},
+{s:"Rest Of Years (Demo)", h:"../lyrics/national/restofyearsdemo.html", c:"", a:""},
+{s:"Roman Holiday", h:"../lyrics/national/romanholiday.html", c:"", a:""},
+{s:"Runaway", h:"../lyrics/national/runaway.html", c:"", a:""},
+{s:"Rylan", h:"../lyrics/national/rylan.html", c:"", a:""},
+{s:"Sailors In Your Mouth", h:"../lyrics/national/sailorsinyourmouth.html", c:"", a:""},
+{s:"Santa Clara", h:"../lyrics/national/santaclara.html", c:"", a:"&quot;The Virginia EP&quot; EP"},
+{s:"Santa Clara", h:"../lyrics/national/santaclara102117.html", c:"", a:"&quot;Boxer&quot; album"},
+{s:"Sea Of Love", h:"../lyrics/national/seaoflove.html", c:"", a:""},
+{s:"Secret Meeting", h:"../lyrics/national/secretmeeting.html", c:"", a:""},
+{s:"Sin-Eaters", h:"../lyrics/national/sineaters.html", c:"", a:""},
+{s:"Sleep Well Beast", h:"../lyrics/national/sleepwellbeast.html", c:"", a:""},
+{s:"Slipped", h:"../lyrics/national/slipped.html", c:"", a:""},
+{s:"Slipping Husband", h:"../lyrics/national/slippinghusband.html", c:"", a:""},
+{s:"Slow Show", h:"../lyrics/national/slowshow.html", c:"", a:""},
+{s:"Slow Show (Demo)", h:"../lyrics/national/slowshowdemo.html", c:"", a:""},
+{s:"So Far Around The Bend", h:"../lyrics/national/sofararoundthebend.html", c:"", a:""},
+{s:"So Far So Fast", h:"../lyrics/national/sofarsofast.html", c:"", a:""},
+{s:"Son", h:"../lyrics/national/son.html", c:"", a:""},
+{s:"Sorrow", h:"../lyrics/national/sorrow.html", c:"", a:""},
+{s:"Squalor Victoria", h:"../lyrics/national/squalorvictoria.html", c:"", a:""},
+{s:"Start A War", h:"../lyrics/national/startawar.html", c:"", a:""},
+{s:"Sugar Wife", h:"../lyrics/national/sugarwife.html", c:"", a:""},
+{s:"Sunshine On My Back", h:"../lyrics/national/sunshineonmyback.html", c:"", a:""},
+{s:"Tall Saint (Demo)", h:"../lyrics/national/tallsaintdemo.html", c:"", a:""},
+{s:"Terrible Love", h:"../lyrics/national/terriblelove.html", c:"", a:""},
+{s:"Terrible Love (Alternate Version)", h:"../lyrics/national/terriblelovealternateversion.html", c:"", a:""},
+{s:"The Geese Of Beverly Road", h:"../lyrics/national/thegeeseofbeverlyroad.html", c:"", a:""},
+{s:"The Perfect Song", h:"../lyrics/national/theperfectsong.html", c:"", a:""},
+{s:"The Pull Of You", h:"../lyrics/national/thepullofyou.html", c:"", a:""},
+{s:"The Rains Of Castamere", h:"../lyrics/national/therainsofcastamere.html", c:"", a:""},
+{s:"The System Only Dreams In Total Darkness", h:"../lyrics/national/thesystemonlydreamsintotaldarkness.html", c:"", a:""},
+{s:"The Thrilling Of Claire", h:"../lyrics/national/thethrillingofclaire.html", c:"", a:""},
+{s:"Theory Of The Crows", h:"../lyrics/national/theoryofthecrows.html", c:"", a:""},
+{s:"Think You Can Wait", h:"../lyrics/national/thinkyoucanwait.html", c:"", a:""},
+{s:"Thirsty", h:"../lyrics/national/thirsty.html", c:"", a:""},
+{s:"This Is The Last Time", h:"../lyrics/national/thisisthelasttime.html", c:"", a:""},
+{s:"Trophy Wife", h:"../lyrics/national/trophywife.html", c:"", a:""},
+{s:"Turn On Me", h:"../lyrics/national/turnonme.html", c:"", a:""},
+{s:"Turtleneck", h:"../lyrics/national/turtleneck.html", c:"", a:""},
+{s:"Val Jester", h:"../lyrics/national/valjester.html", c:"", a:""},
+{s:"Vanderlyle Crybaby Geeks", h:"../lyrics/national/vanderlylecrybabygeeks.html", c:"", a:""},
+{s:"Wake Up Your Saints", h:"../lyrics/national/wakeupyoursaints.html", c:"", a:""},
+{s:"Walk It Back", h:"../lyrics/national/walkitback.html", c:"", a:""},
+{s:"Walk Off", h:"../lyrics/national/walkoff.html", c:"", a:""},
+{s:"Wasp Nest", h:"../lyrics/national/waspnest.html", c:"", a:""},
+{s:"Watching You Well", h:"../lyrics/national/watchingyouwell.html", c:"", a:""},
+{s:"Where Is Her Head", h:"../lyrics/national/whereisherhead.html", c:"", a:""},
+{s:"Without Permission", h:"../lyrics/national/withoutpermission.html", c:"", a:""},
+{s:"You Had Your Soul With You", h:"../lyrics/national/youhadyoursoulwithyou.html", c:"", a:""},
+{s:"You Were A Kindness", h:"../lyrics/national/youwereakindness.html", c:"", a:""},
+{s:"You've Done It Again, Virginia", h:"../lyrics/national/youvedoneitagainvirginia.html", c:"", a:""}];
+var albumlist = ["<div id=\"9752\" class=\"album\">album: <b>\"The National\"<\/b> (2001)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/beautifulhead.html\" target=\"_blank\">Beautiful Head<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/coldgirlfever.html\" target=\"_blank\">Cold Girl Fever<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/theperfectsong.html\" target=\"_blank\">The Perfect Song<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/americanmary.html\" target=\"_blank\">American Mary<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/son.html\" target=\"_blank\">Son<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/payforme.html\" target=\"_blank\">Pay For Me<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/bittersabsolut.html\" target=\"_blank\">Bitters &amp; Absolut<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/johnsstar.html\" target=\"_blank\">John's Star<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/watchingyouwell.html\" target=\"_blank\">Watching You Well<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/theoryofthecrows.html\" target=\"_blank\">Theory Of The Crows<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/29years.html\" target=\"_blank\">29 Years<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/annafreud.html\" target=\"_blank\">Anna Freud<\/a><\/div>\n\r\n","<div id=\"9753\" class=\"album\">album: <b>\"Sad Songs For Dirty Lovers\"<\/b> (2003)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/cardinalsong.html\" target=\"_blank\">Cardinal Song<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/slippinghusband.html\" target=\"_blank\">Slipping Husband<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/90milewaterwall.html\" target=\"_blank\">90-Mile Water Wall<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/itneverhappened.html\" target=\"_blank\">It Never Happened<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/murdermerachael.html\" target=\"_blank\">Murder Me Rachael<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/thirsty.html\" target=\"_blank\">Thirsty<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/available.html\" target=\"_blank\">Available<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/sugarwife.html\" target=\"_blank\">Sugar Wife<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/trophywife.html\" target=\"_blank\">Trophy Wife<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/fashioncoat.html\" target=\"_blank\">Fashion Coat<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/patternsoffairytales.html\" target=\"_blank\">Patterns Of Fairytales<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/luckyyou102085.html\" target=\"_blank\">Lucky You<\/a><\/div>\n\r\n","<div id=\"9755\" class=\"album\">EP: <b>\"Cherry Tree\"<\/b> (2004)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/waspnest.html\" target=\"_blank\">Wasp Nest<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/allthewine.html\" target=\"_blank\">All The Wine<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/alldolledupinstraps.html\" target=\"_blank\">All Dolled-Up In Straps<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/cherrytree.html\" target=\"_blank\">Cherry Tree<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/abouttoday.html\" target=\"_blank\">About Today<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/murdermerachael102102.html\" target=\"_blank\">Murder Me Rachael<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/reasonablemanidontmind.html\" target=\"_blank\">Reasonable Man (I Don't Mind)<\/a><\/div>\n\r\n","<div id=\"9757\" class=\"album\">album: <b>\"Alligator\"<\/b> (2005)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/secretmeeting.html\" target=\"_blank\">Secret Meeting<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/karen.html\" target=\"_blank\">Karen<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/litup.html\" target=\"_blank\">Lit Up<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/lookingforastronauts.html\" target=\"_blank\">Looking For Astronauts<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/daughtersofthesohoriots.html\" target=\"_blank\">Daughters Of The Soho Riots<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/babywellbefine.html\" target=\"_blank\">Baby, We'll Be Fine<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/friendofmine.html\" target=\"_blank\">Friend Of Mine<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/valjester.html\" target=\"_blank\">Val Jester<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/allthewine102126.html\" target=\"_blank\">All The Wine<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/abel.html\" target=\"_blank\">Abel<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/thegeeseofbeverlyroad.html\" target=\"_blank\">The Geese Of Beverly Road<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/citymiddle.html\" target=\"_blank\">City Middle<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/mrnovember.html\" target=\"_blank\">Mr. November<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/thethrillingofclaire.html\" target=\"_blank\">The Thrilling Of Claire<\/a><div class=\"comment\">(Special Edition Bonus Track)<\/div><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/driversurpriseme.html\" target=\"_blank\">Driver, Surprise Me<\/a><div class=\"comment\">(Special Edition Bonus Track)<\/div><\/div>\n\r\n","<div id=\"9756\" class=\"album\">album: <b>\"Boxer\"<\/b> (2007)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/fakeempire.html\" target=\"_blank\">Fake Empire<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/mistakenforstrangers.html\" target=\"_blank\">Mistaken For Strangers<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/brainy.html\" target=\"_blank\">Brainy<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/squalorvictoria.html\" target=\"_blank\">Squalor Victoria<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/greengloves.html\" target=\"_blank\">Green Gloves<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/slowshow.html\" target=\"_blank\">Slow Show<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/apartmentstory.html\" target=\"_blank\">Apartment Story<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/startawar.html\" target=\"_blank\">Start A War<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/guestroom.html\" target=\"_blank\">Guest Room<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/racinglikeapro.html\" target=\"_blank\">Racing Like A Pro<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/ada.html\" target=\"_blank\">Ada<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/gospel.html\" target=\"_blank\">Gospel<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/blankslate102116.html\" target=\"_blank\">Blank Slate<\/a><div class=\"comment\">(Japanese &amp; iTunes Bonus Track)<\/div><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/santaclara102117.html\" target=\"_blank\">Santa Clara<\/a><div class=\"comment\">(Japanese &amp; iTunes Bonus Track)<\/div><\/div>\n\r\n","<div id=\"9751\" class=\"album\">EP: <b>\"The Virginia EP\"<\/b> (2008)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/youvedoneitagainvirginia.html\" target=\"_blank\">You've Done It Again, Virginia<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/santaclara.html\" target=\"_blank\">Santa Clara<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/blankslate.html\" target=\"_blank\">Blank Slate<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/tallsaintdemo.html\" target=\"_blank\">Tall Saint (Demo)<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/withoutpermission.html\" target=\"_blank\">Without Permission<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/foreverafterdaysdemo.html\" target=\"_blank\">Forever After Days (Demo)<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/restofyearsdemo.html\" target=\"_blank\">Rest Of Years (Demo)<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/slowshowdemo.html\" target=\"_blank\">Slow Show (Demo)<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/luckyyou.html\" target=\"_blank\">Lucky You<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/mansiononthehill.html\" target=\"_blank\">Mansion On The Hill<\/a><\/div>\n\r\n","<div id=\"9754\" class=\"album\">album: <b>\"High Violet\"<\/b> (2010)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/terriblelove.html\" target=\"_blank\">Terrible Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/sorrow.html\" target=\"_blank\">Sorrow<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/anyonesghost.html\" target=\"_blank\">Anyone's Ghost<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/littlefaith.html\" target=\"_blank\">Little Faith<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/afraidofeveryone.html\" target=\"_blank\">Afraid Of Everyone<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/bloodbuzzohio.html\" target=\"_blank\">Bloodbuzz Ohio<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/lemonworld.html\" target=\"_blank\">Lemonworld<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/runaway.html\" target=\"_blank\">Runaway<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/conversation16.html\" target=\"_blank\">Conversation 16<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/england.html\" target=\"_blank\">England<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/vanderlylecrybabygeeks.html\" target=\"_blank\">Vanderlyle Crybaby Geeks<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/terriblelovealternateversion.html\" target=\"_blank\">Terrible Love (Alternate Version)<\/a><div class=\"comment\">(Expanded Edition Bonus Track)<\/div><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/wakeupyoursaints.html\" target=\"_blank\">Wake Up Your Saints<\/a><div class=\"comment\">(Expanded Edition Bonus Track)<\/div><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/youwereakindness.html\" target=\"_blank\">You Were A Kindness<\/a><div class=\"comment\">(Expanded Edition Bonus Track)<\/div><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/walkoff.html\" target=\"_blank\">Walk Off<\/a><div class=\"comment\">(Expanded Edition Bonus Track)<\/div><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/sineaters.html\" target=\"_blank\">Sin-Eaters<\/a><div class=\"comment\">(Expanded Edition Bonus Track)<\/div><\/div>\n\r\n","<div id=\"26829\" class=\"album\">album: <b>\"Trouble Will Find Me\"<\/b> (2013)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/ishouldliveinsalt.html\" target=\"_blank\">I Should Live In Salt<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/demons.html\" target=\"_blank\">Demons<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/dontswallowthecap.html\" target=\"_blank\">Don't Swallow The Cap<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/fireproof.html\" target=\"_blank\">Fireproof<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/seaoflove.html\" target=\"_blank\">Sea Of Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/heavenfaced.html\" target=\"_blank\">Heavenfaced<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/thisisthelasttime.html\" target=\"_blank\">This Is The Last Time<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/graceless.html\" target=\"_blank\">Graceless<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/slipped.html\" target=\"_blank\">Slipped<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/ineedmygirl.html\" target=\"_blank\">I Need My Girl<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/humiliation.html\" target=\"_blank\">Humiliation<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/pinkrabbits.html\" target=\"_blank\">Pink Rabbits<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/hardtofind.html\" target=\"_blank\">Hard To Find<\/a><\/div>\n\r\n","<div id=\"47948\" class=\"album\">album: <b>\"Sleep Well Beast\"<\/b> (2017)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/nobodyelsewillbethere.html\" target=\"_blank\">Nobody Else Will Be There<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/dayidie.html\" target=\"_blank\">Day I Die<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/walkitback.html\" target=\"_blank\">Walk It Back<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/thesystemonlydreamsintotaldarkness.html\" target=\"_blank\">The System Only Dreams In Total Darkness<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/borntobeg.html\" target=\"_blank\">Born To Beg<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/turtleneck.html\" target=\"_blank\">Turtleneck<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/empireline.html\" target=\"_blank\">Empire Line<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/illstilldestroyyou.html\" target=\"_blank\">I'll Still Destroy You<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/guiltyparty.html\" target=\"_blank\">Guilty Party<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/carinattheliquorstore.html\" target=\"_blank\">Carin At The Liquor Store<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/darksideofthegym.html\" target=\"_blank\">Dark Side Of The Gym<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/sleepwellbeast.html\" target=\"_blank\">Sleep Well Beast<\/a><\/div>\n\r\n","<div id=\"66345\" class=\"album\">album: <b>\"I Am Easy To Find\"<\/b> (2019)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/youhadyoursoulwithyou.html\" target=\"_blank\">You Had Your Soul With You<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/quietlight.html\" target=\"_blank\">Quiet Light<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/romanholiday.html\" target=\"_blank\">Roman Holiday<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/oblivions.html\" target=\"_blank\">Oblivions<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/thepullofyou.html\" target=\"_blank\">The Pull Of You<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/heyrosey.html\" target=\"_blank\">Hey Rosey<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/iameasytofind.html\" target=\"_blank\">I Am Easy To Find<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/whereisherhead.html\" target=\"_blank\">Where Is Her Head<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/notinkansas.html\" target=\"_blank\">Not In Kansas<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/sofarsofast.html\" target=\"_blank\">So Far So Fast<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/hairpinturns.html\" target=\"_blank\">Hairpin Turns<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/rylan.html\" target=\"_blank\">Rylan<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/lightyears.html\" target=\"_blank\">Light Years<\/a><\/div>\n\r\n"];
+var albumlist_others = "<div class=\"album\"><b>other songs:<\/b><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/badstuffhappensinthebathroom.html\" target=\"_blank\">Bad Stuff Happens In The Bathroom<\/a><div class=\"comment\">(from &quot;The Bob's Burgers Music Album&quot; compilation)<\/div><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/christmasmagic.html\" target=\"_blank\">Christmas Magic<\/a><div class=\"comment\">(from &quot;The Bob's Burgers Music Album&quot; compilation)<\/div><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/exilevilify.html\" target=\"_blank\">Exile Vilify<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/giveittoteddyicanfixit.html\" target=\"_blank\">Give It To Teddy (I Can Fix It)<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/lean.html\" target=\"_blank\">Lean<\/a><div class=\"comment\">(from &quot;The Hunger Games: Catching Fire&quot; soundtrack)<\/div><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/nevertearusapart.html\" target=\"_blank\">Never Tear Us Apart<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/sailorsinyourmouth.html\" target=\"_blank\">Sailors In Your Mouth<\/a><div class=\"comment\">(from &quot;The Bob's Burgers Music Album&quot; compilation)<\/div><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/sofararoundthebend.html\" target=\"_blank\">So Far Around The Bend<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/sunshineonmyback.html\" target=\"_blank\">Sunshine On My Back<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/therainsofcastamere.html\" target=\"_blank\">The Rains Of Castamere<\/a><div class=\"comment\">(from &quot;Game of Thrones&quot; soundtrack)<\/div><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/thinkyoucanwait.html\" target=\"_blank\">Think You Can Wait<\/a><div class=\"comment\">(from &quot;Win Win&quot; soundtrack)<\/div><\/div>\n<div class=\"listalbum-item\"><a href=\"..\/lyrics\/national\/turnonme.html\" target=\"_blank\">Turn On Me<\/a><div class=\"comment\">(from &quot;For The Throne&quot; compilation)<\/div><\/div>\n\n";
+
+window.addEventListener('DOMContentLoaded', function(){
+
+$('#az_sort_song').on('click',function(event){
+    var sortprop='data-az-song-sort';
+    var el = event.currentTarget;
+    var el_glyph = $(el).children('span.glyphicon');
+    var res='';
+    if(el.getAttribute(sortprop)){
+        el.setAttribute(sortprop,'');
+        el_glyph.removeClass('glyphicon-sort-by-alphabet');
+        el_glyph.addClass('glyphicon-sort-by-alphabet-alt');
+        for (var i=(songlist.length-1); i>=0; i--) {
+            res += '<div class="listalbum-item"><a href="'+songlist[i].h+'" target="_blank">'+songlist[i].s+''+songlist[i].c+'</a>'+(songlist[i].a=="" ? '' : ' <div class="comment">('+songlist[i].a+')</div>')+'</div>';
+        }
+    }else{
+        el.setAttribute(sortprop,'1');
+        el_glyph.removeClass('glyphicon-sort-by-alphabet-alt');
+        el_glyph.addClass('glyphicon-sort-by-alphabet');
+        for (var i=0; i<songlist.length; i++) {
+            res += '<div class="listalbum-item"><a href="'+songlist[i].h+'" target="_blank">'+songlist[i].s+''+songlist[i].c+'</a>'+(songlist[i].a=="" ? '' : ' <div class="comment">('+songlist[i].a+')</div>')+'</div>';
+        }
+    }
+    $('#listAlbum').html(res);
+    $('#listAlbum').css('padding-top','15px');
+});
+
+$('#az_sort_album').on('click',function(event){
+    var sortprop='data-az-album-sort';
+    var el = event.currentTarget;
+    var el_glyph = $(el).children('span.glyphicon');
+    var res='';
+    if(el.getAttribute(sortprop)){
+        el.setAttribute(sortprop,'');
+        el_glyph.removeClass('glyphicon-sort-by-order');
+        el_glyph.addClass('glyphicon-sort-by-order-alt');
+        for (var i=(albumlist.length-1); i>=0; i--) {
+            res += albumlist[i];
+        }
+    }else{
+        el.setAttribute(sortprop,'1');
+        el_glyph.removeClass('glyphicon-sort-by-order-alt');
+        el_glyph.addClass('glyphicon-sort-by-order');
+        for (var i=0; i<albumlist.length; i++) {
+            res += albumlist[i];
+        }
+    }
+    res += albumlist_others;
+    $('#listAlbum').html(res);
+    $('#listAlbum').css('padding-top','0');
+});
+
+});
+//-->
+</script>
+</div>

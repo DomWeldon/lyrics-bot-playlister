@@ -34,3 +34,7 @@ sort:
 .PHONY: check
 check:
 	@echo "Running MyPy" && poetry run mypy lyrics_bot_playlister || exit 1
+
+.PHONY: test
+test:
+	poetry run py.test tests

@@ -17,3 +17,8 @@ lyrics = type(
     (object,),
     {k.upper(): v for k, v in config["lyrics"].items()},
 )
+scraper = type(
+    "ConfigAttrs",
+    (object,),
+    {k.upper(): v for k, v in config["scraper"].items()},
+)
