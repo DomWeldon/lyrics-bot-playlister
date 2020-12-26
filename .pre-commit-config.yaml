@@ -1,0 +1,37 @@
+repos:
+  - repo: https://github.com/ambv/black
+    rev: 19.10b0
+    hooks:
+    - id: black
+      language_version: python3.8
+      args: [--line-length=79]
+
+  - repo: https://gitlab.com/pycqa/flake8
+    rev: '3.8.4'
+    hooks:
+    - id: flake8
+      language_version: python3.8
+
+  - repo: https://github.com/asottile/seed-isort-config
+    rev: v1.9.3
+    hooks:
+    - id: seed-isort-config
+
+  - repo: https://github.com/timothycrosley/isort
+    rev: 5.6.4
+    hooks:
+    - id: isort
+      additional_dependencies: ["toml"]
+      language_version: python3.8
+
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v2.1.0
+    hooks:
+    - id: trailing-whitespace
+    - id: end-of-file-fixer
+    - id: debug-statements
+    - id: check-ast
+    - id: check-yaml
+    - id: check-json
+    - id: detect-private-key
+    - id: detect-aws-credentials
