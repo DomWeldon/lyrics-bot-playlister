@@ -5,3 +5,6 @@ band_name = "The National"
 
 [lyrics-bot-playlister.scraper]
 sleep_time_seconds = 1
+
+[lyrics-bot-playlister.twitter]
+bot_name = "the_nationalbot"

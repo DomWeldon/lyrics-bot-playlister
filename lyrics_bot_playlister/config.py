@@ -22,3 +22,21 @@ scraper = type(
     (object,),
     {k.upper(): v for k, v in config["scraper"].items()},
 )
+twitter = type(
+    "ConfigAttrs",
+    (object,),
+    {k.upper(): v for k, v in config["twitter"].items()},
+)
+twitter_auth = type(
+    "ConfigAttrs",
+    (object,),
+    {
+        k: os.environ.get(f"TWITTER_{k}")
+        for k in {
+            "CONSUMER_KEY",
+            "CONSUMER_KEY_SECRET",
+            "ACCESS_TOKEN",
+            "ACCESS_TOKEN_SECRET",
+        }
+    },
+)

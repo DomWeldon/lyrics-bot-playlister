@@ -142,3 +142,4 @@ cython_debug/
 
 # local data
 data/
+.envrc
