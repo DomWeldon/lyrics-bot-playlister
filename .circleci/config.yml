@@ -1,0 +1,121 @@
+version: 2.1
+orbs:
+  aws-cli: circleci/aws-cli@1.1.0
+jobs:
+  build:
+    working_directory: ~/repo
+    docker:
+      - image: circleci/python:3.8.6
+
+    steps:
+      - checkout
+      - restore_cache:
+          key: venv-cache-{{ checksum "poetry.lock" }}-{{ checksum "poetry.toml" }}
+      - run:
+          name: Set up virtualenv and install dependencies
+          command: |
+            pip install --user --progress-bar=off --pre poetry==1.0.0
+            poetry install
+      - save_cache:
+          key: venv-cache-{{ checksum "poetry.lock" }}-{{ checksum "poetry.toml" }}
+          paths:
+            - /home/circleci/repo/.venv
+
+  format:
+    docker:
+      - image: circleci/python:3.8.6
+    working_directory: ~/repo
+    steps:
+      - checkout
+      - restore_cache:
+          key: venv-cache-{{ checksum "poetry.lock" }}-{{ checksum "poetry.toml" }}
+      - run:
+          name: Run format check
+          command: |
+            make format
+  lint:
+    docker:
+      - image: circleci/python:3.8.6
+    working_directory: ~/repo
+    steps:
+      - checkout
+      - restore_cache:
+          key: venv-cache-{{ checksum "poetry.lock" }}-{{ checksum "poetry.toml" }}
+      - run:
+          name: Run Python linter
+          command: |
+            make lint
+  sort:
+    docker:
+      - image: circleci/python:3.8.6
+    working_directory: ~/repo
+    steps:
+      - checkout
+      - restore_cache:
+          key: venv-cache-{{ checksum "poetry.lock" }}-{{ checksum "poetry.toml" }}
+      - run:
+          name: Run import sort order check
+          command: |
+            make sort
+  test:
+    working_directory: ~/repo
+    docker:
+      - image: circleci/python:3.8.6
+    steps:
+      - checkout
+      - restore_cache:
+          key: venv-cache-{{ checksum "poetry.lock" }}-{{ checksum "poetry.toml" }}
+      - run:
+          name: run tests
+          command: |
+            poetry run py.test tests
+
+  deploy-fastapi-asgi-lambda:
+    working_directory: ~/repo
+    docker:
+      - image: circleci/python:3.8.6
+    steps:
+      - checkout
+      - restore_cache:
+          key: venv-cache-{{ checksum "poetry.lock" }}-{{ checksum "poetry.toml" }}
+      - run:
+          name: build artefact
+          command: |
+            cd lyrics_bot_playlister
+            poetry export -f requirements.txt > ../requirements.txt
+            cd ..
+            touch __init__.py
+            pip install --target ./ -r requirements.txt
+            zip -r9 artefact.zip ./* ./.libs_cffi_backend/
+            ls -lah | grep artefact
+      - run:
+          name: deploy fastapi_asgi artefact
+          command: |
+            source .venv/bin/activate
+            LAMBDA_KEY=fastapi_asgi python -m scripts.deploy_lambda
+workflows:
+  version: 2
+  pipeline:
+    jobs:
+      - build
+      - format:
+          requires:
+            - build
+      - lint:
+          requires:
+            - build
+      - sort:
+          requires:
+            - build
+      - test:
+          requires:
+            - build
+      - deploy-fastapi-asgi-lambda:
+          requires:
+            - format
+            - lint
+            - sort
+            - test
+          filters:
+              branches:
+                  only: prod

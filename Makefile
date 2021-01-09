@@ -38,3 +38,7 @@ check:
 .PHONY: test
 test:
 	poetry run py.test tests
+
+.PHONY: repl
+repl:
+	poetry run bpython
