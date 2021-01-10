@@ -17,9 +17,6 @@ app = typer.Typer()
 
 data_dir = pathlib.Path("data")
 
-assert data_dir.exists()
-assert data_dir.is_dir()
-
 
 @app.command()
 def scrape_to_local():
