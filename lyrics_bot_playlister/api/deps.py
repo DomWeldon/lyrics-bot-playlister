@@ -8,14 +8,14 @@ import fastapi
 from .. import config as config_
 
 
-def config() -> object:
+def config():
     """Configuration object"""
 
     return config_
 
 
 def verify_webhook_origin_twitter(
-    config: object,
+    config,
     request: fastapi.Request,
     x_twitter_webhooks_signature: typing.Optional[str] = fastapi.Header(None),
 ) -> None:

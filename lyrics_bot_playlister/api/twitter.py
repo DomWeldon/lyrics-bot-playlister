@@ -35,10 +35,12 @@ async def crc_challenge(
 async def webhook(
     crc_token: str,
     request: fastapi.Request,
-    config: object = fastapi.Depends(deps.config),
+    config: typing.Any = fastapi.Depends(deps.config),
     verify_webhook_origin_twitter: None = fastapi.Depends(
         deps.verify_webhook_origin_twitter
     ),
 ) -> typing.Dict[str, str]:
     """Handle incoming twitter events"""
     print(request)
+
+    return {}
