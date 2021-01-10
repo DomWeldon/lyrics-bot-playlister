@@ -6,6 +6,8 @@ import mangum
 import sentry_sdk
 from sentry_sdk.integrations.asgi import SentryAsgiMiddleware
 
+from . import twitter
+
 app = fastapi.FastAPI()
 
 # register sentry
@@ -14,6 +16,13 @@ if SENTRY_DSN is not None and len(SENTRY_DSN):
     sentry_sdk.init(dsn=SENTRY_DSN)
     # logging.info("added Sentry", dsn=settings.SENTRY_DSN)
     app.add_middleware(SentryAsgiMiddleware)
+
+# register twitter router
+app.include_router(
+    twitter.router,
+    prefix="/twitter",
+    tags=["Twitter 🐦 Endpoints"],
+)
 
 
 @app.get("/")

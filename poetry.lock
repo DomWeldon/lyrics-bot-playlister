@@ -216,6 +216,14 @@ optional = false
 python-versions = "*"
 
 [[package]]
+name = "hashlib"
+version = "20081119"
+description = "Secure hash and message digest algorithm library"
+category = "main"
+optional = false
+python-versions = "*"
+
+[[package]]
 name = "identify"
 version = "1.5.12"
 description = "File identification library for Python"
@@ -688,7 +696,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "289a634f9f1b565110316d6ddb49b746f2ed2920adce1456254c1f07e661d531"
+content-hash = "ac3ecd75824f31ab13a057aa546608a090e108775be55c0630e50c93a8732d42"
 
 [metadata.files]
 appdirs = [
@@ -782,6 +790,10 @@ greenlet = [
     {file = "greenlet-0.4.17-cp38-cp38-win_amd64.whl", hash = "sha256:47825c3a109f0331b1e54c1173d4e57fa000aa6c96756b62852bfa1af91cd652"},
     {file = "greenlet-0.4.17-cp39-cp39-manylinux1_x86_64.whl", hash = "sha256:1023d7b43ca11264ab7052cb09f5635d4afdb43df55e0854498fc63070a0b206"},
     {file = "greenlet-0.4.17.tar.gz", hash = "sha256:41d8835c69a78de718e466dd0e6bfd4b46125f21a67c3ff6d76d8d8059868d6b"},
+]
+hashlib = [
+    {file = "hashlib-20060408a.win32-py2.4-openssl.exe", hash = "sha256:6ece4dbc12a71cd24793e5a06ba72f0ee0142affea6593842e5520f400ec9dbb"},
+    {file = "hashlib-20081119.zip", hash = "sha256:419de2fd10ae71ed9c6adcb55903f116abd1d8acc8c814dfd5f839b4d5013e38"},
 ]
 identify = [
     {file = "identify-1.5.12-py2.py3-none-any.whl", hash = "sha256:18994e850ba50c37bcaed4832be8b354d6a06c8fb31f54e0e7ece76d32f69bc8"},
