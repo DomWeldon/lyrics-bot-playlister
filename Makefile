@@ -11,12 +11,12 @@ help:
 
 .PHONY: fix
 fix:
-	poetry run black lyrics_bot_playlister tests
+	poetry run black -l 79 lyrics_bot_playlister tests
 	poetry run isort .
 
 .PHONY: format
 format:
-	@echo "Running black" && poetry run black --check lyrics_bot_playlister tests || exit 1
+	@echo "Running black" && poetry run black -l 79 --check lyrics_bot_playlister tests || exit 1
 
 .PHONY: lint
 lint:

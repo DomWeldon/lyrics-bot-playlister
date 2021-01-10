@@ -27,13 +27,13 @@ def test_find_songs_from_lyrics(mock_songs):
     from lyrics_bot_playlister.lyrics import search
 
     # act
-    s0 = search.find_songs_from_lyrics(
-        ["You must be somewhere in London", "Walking Abbey Lane"], mock_songs,
-    )
-    s1 = search.find_songs_from_lyrics(
-        ["Sorrow's my body on the waves", "Sorrow's a girl inside my cake"],
-        mock_songs,
-    )
+    england = ["You must be somewhere in London", "Walking Abbey Lane"]
+    s0 = search.find_songs_from_lyrics(england, mock_songs,)
+    sorrow = [
+        "Sorrow's my body on the waves",
+        "Sorrow's a girl inside my cake",
+    ]
+    s1 = search.find_songs_from_lyrics(sorrow, mock_songs,)
 
     # assert
     assert s0[0].title == "England"

@@ -29,7 +29,7 @@ def song() -> str:
 
 @pytest.fixture(scope="function")
 def mock_requests_get_song_list(song_list: str) -> mock.Mock:
-    return mock.Mock(return_value=mock.Mock(status_code=200, text=song_list,),)
+    return mock.Mock(return_value=mock.Mock(status_code=200, text=song_list))
 
 
 @pytest.fixture(scope="function")
@@ -42,7 +42,7 @@ def patch_requests_get_song_list(mock_requests_get_song_list: mock.Mock):
 
 @pytest.fixture(scope="function")
 def mock_requests_get_song(song: str) -> mock.Mock:
-    return mock.Mock(return_value=mock.Mock(status_code=200, text=song,),)
+    return mock.Mock(return_value=mock.Mock(status_code=200, text=song))
 
 
 @pytest.fixture(scope="function")
