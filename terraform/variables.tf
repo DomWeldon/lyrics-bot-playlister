@@ -42,3 +42,25 @@ variable "circleci_organization" {
   type        = string
   description = "For VCS Type"
 }
+
+
+# sentry
+variable "sentry_organization" {
+  type        = string
+  description = "Sentry org name"
+}
+
+variable "sentry_organization_slug" {
+  type        = string
+  description = "Sentry org slug"
+}
+
+variable "sentry_team" {
+  type        = string
+  description = "Sentry team name"
+}
+
+variable "sentry_team_slug" {
+  type        = string
+  description = "Sentry team slug"
+}

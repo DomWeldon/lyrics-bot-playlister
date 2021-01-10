@@ -18,5 +18,10 @@ terraform {
       source  = "tomtucka/circleci"
       version = "~> 0.4.0"
     }
+
+    sentry = {
+      source  = "jianyuan/sentry"
+      version = "~> 0.6.0"
+    }
   }
 }

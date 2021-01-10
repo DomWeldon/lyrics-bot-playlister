@@ -7,3 +7,5 @@ provider "circleci" {
   organization = var.circleci_organization
   vcs_type     = var.circleci_vcs_type
 }
+
+provider "sentry" {}

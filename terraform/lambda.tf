@@ -9,5 +9,6 @@ module "fastapi_asgi_lambda" {
     ENV              = var.environment_name
     PROJECT_NAME     = var.project_name
     ENVIRONMENT_NAME = var.environment_name
+    SENTRY_DSN       = sentry_key.asgi.dsn_public
   }]
 }
