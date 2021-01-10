@@ -22,6 +22,10 @@ variable "tags" {
   default = {}
 }
 
+variable "aws_region" {
+  default = "eu-west-1"
+}
+
 
 # circleci
 variable "circleci_project_name" {

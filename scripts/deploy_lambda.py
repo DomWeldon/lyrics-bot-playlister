@@ -169,7 +169,7 @@ def main() -> None:
         project_name,
         branch_name,
         PartialSsmParamName("fastapi_asgi"),
-        Path("../artefact.zip"),
+        Path("./artefact.zip"),
     )
 
 

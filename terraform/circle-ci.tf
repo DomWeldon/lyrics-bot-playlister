@@ -2,20 +2,20 @@ resource "circleci_project" "main" {
   name = var.circleci_project_name
 }
 
+locals {
+  ci_environment_vars = {
+    AWS_ACCESS_KEY_ID                             = aws_iam_access_key.ci.id
+    AWS_SECRET_ACCESS_KEY                         = aws_iam_access_key.ci.secret
+    "AWS_ROLE_ARN_${upper(var.environment_name)}" = aws_iam_role.ci.arn
+    PROJECT_NAME                                  = var.project_name
+    AWS_REGION                                    = var.aws_region
+  }
+}
+
 resource "circleci_environment_variable" "aws_access_key_id" {
-  project = circleci_project.main.id
-  name    = "AWS_ACCESS_KEY_ID"
-  value   = aws_iam_access_key.ci.id
-}
+  for_each = local.ci_environment_vars
 
-resource "circleci_environment_variable" "aws_secret_access_key" {
   project = circleci_project.main.id
-  name    = "AWS_SECRET_ACCESS_KEY"
-  value   = aws_iam_access_key.ci.secret
-}
-
-resource "circleci_environment_variable" "aws_role_arn" {
-  project = circleci_project.main.id
-  name    = "AWS_ROLE_ARN_${var.environment_name}"
-  value   = aws_iam_role.ci.arn
+  name    = each.key
+  value   = each.value
 }
