@@ -7,7 +7,9 @@ from .. import config
 from .. import project_types as pt
 
 
-def _etree_from_url(url: str,) -> lxml.html.HtmlElement:
+def _etree_from_url(
+    url: str,
+) -> lxml.html.HtmlElement:
     """Get an Element Tree from a URL"""
     # request the HTML
     r = requests.get(url)

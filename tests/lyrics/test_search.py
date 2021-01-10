@@ -28,12 +28,18 @@ def test_find_songs_from_lyrics(mock_songs):
 
     # act
     england = ["You must be somewhere in London", "Walking Abbey Lane"]
-    s0 = search.find_songs_from_lyrics(england, mock_songs,)
+    s0 = search.find_songs_from_lyrics(
+        england,
+        mock_songs,
+    )
     sorrow = [
         "Sorrow's my body on the waves",
         "Sorrow's a girl inside my cake",
     ]
-    s1 = search.find_songs_from_lyrics(sorrow, mock_songs,)
+    s1 = search.find_songs_from_lyrics(
+        sorrow,
+        mock_songs,
+    )
 
     # assert
     assert s0[0].title == "England"
