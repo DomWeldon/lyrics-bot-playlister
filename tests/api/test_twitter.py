@@ -19,7 +19,9 @@ def test_crc_challenge(
         digestmod=hashlib.sha256,
     ).digest()
     # act
-    r = test_client.get(f"/twitter/challenge?crc_token={mock_crc_token}")
+    r = test_client.get(
+        f"/webhook/twitter/challenge?crc_token={mock_crc_token}"
+    )
     actual_digest = base64.b64decode(
         r.json()["response_token"].split("=", 1)[-1].encode("utf8")
     )
