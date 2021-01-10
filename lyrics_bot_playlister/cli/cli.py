@@ -149,7 +149,7 @@ def register_webhook():
 
     # get the endpoint
     webhook_endpoint = urllib.parse.quote_plus(
-        f"{config.api.INVOKE_BASE}/webhook/twitter"
+        f"{config.api.INVOKE_BASE}/webhook/twitter/"
     )
     url_base = config.twitter.REGISTER_WEBHOOK_URL_BASE
     url = f"{url_base}?url={webhook_endpoint}"
