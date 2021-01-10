@@ -10,6 +10,8 @@ module "fastapi_asgi_lambda" {
     ENV              = var.environment_name
     PROJECT_NAME     = var.project_name
     ENVIRONMENT_NAME = var.environment_name
+    API_ROOT_PATH    = "/${var.environment_name}"
+    API_INVOKE_BASE  = aws_api_gateway_stage.main.invoke_url
     # sentry
     SENTRY_DSN = sentry_key.asgi.dsn_public
     # twitter

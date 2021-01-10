@@ -15,7 +15,7 @@ config = toml.load(CONFIG_FILE_PATH)["lyrics-bot-playlister"]
 api = type(
     "ConfigAttrs",
     (object,),
-    {k: os.environ.get(f"API_{k}") for k in {"ROOT_PATH"}},
+    {k: os.environ.get(f"API_{k}") for k in {"ROOT_PATH", "INVOKE_BASE"}},
 )
 lyrics = type(
     "ConfigAttrs",

@@ -2,7 +2,9 @@
 import dataclasses
 import pathlib
 import time
+import urllib
 
+import requests_oauthlib
 import typer
 import yaml
 
@@ -136,3 +138,30 @@ def match_recent_tweets(n: int = 100):
 
     for tweet in unknowns:
         typer.echo(f"Unknown lyric: {tweet}")
+
+
+@app.command()
+def register_webhook():
+    # make the oauth object
+    twitter = requests_oauthlib.OAuth1Session(
+        config.twitter_auth.CONSUMER_KEY,
+        client_secret=config.twitter_auth.CONSUMER_KEY_SECRET,
+        resource_owner_key=config.twitter_auth.ACCESS_TOKEN,
+        resource_owner_secret=config.twitter_auth.ACCESS_TOKEN_SECRET,
+    )
+
+    # get the endpoint
+    webhook_endpoint = urllib.parse.quote_plus(
+        f"{config.api.INVOKE_BASE}/webhook/twitter"
+    )
+    url_base = config.twitter.REGISTER_WEBHOOK_URL_BASE
+    url = f"{url_base}?url={webhook_endpoint}"
+
+    webhook_url = typer.style(url, fg=typer.colors.BRIGHT_YELLOW)
+    typer.echo(f"Registering Web Hook at {webhook_url}")
+
+    # post to the endpoint
+    r = twitter.post(url)
+
+    print(r.status_code)
+    print(r.json())
