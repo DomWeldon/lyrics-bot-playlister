@@ -93,6 +93,19 @@ jobs:
           command: |
             source .venv/bin/activate
             LAMBDA_KEY=asgi python -m scripts.deploy_lambda
+  register-twitter-webhook:
+    working_directory: ~/repo
+    docker:
+      - image: circleci/python:3.8.6
+    steps:
+      - checkout
+      - restore_cache:
+          key: venv-cache-{{ checksum "poetry.lock" }}-{{ checksum "poetry.toml" }}
+      - run:
+          name: build registering web hook
+          command: |
+            source .venv/bin/activate
+            python -m lyrics_bot_playlister.cli register-webhook
 workflows:
   version: 2
   pipeline:
@@ -116,6 +129,12 @@ workflows:
             - lint
             - sort
             - test
+          filters:
+              branches:
+                  only: prod
+      - register-twitter-webhook:
+          requires:
+            - deploy-fastapi-asgi-lambda
           filters:
               branches:
                   only: prod

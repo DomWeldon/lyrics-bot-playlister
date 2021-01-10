@@ -10,7 +10,7 @@ from . import deps
 router = fastapi.APIRouter()
 
 
-@router.get("/challenge")
+@router.get("/")
 async def crc_challenge(
     crc_token: str, config: object = fastapi.Depends(deps.config)
 ) -> typing.Dict[str, str]:
