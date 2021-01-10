@@ -21,7 +21,7 @@ if SENTRY_DSN is not None and len(SENTRY_DSN):
 # register twitter router
 app.include_router(
     twitter.router,
-    prefix="/twitter",
+    prefix="/webhook/twitter",
     tags=["Twitter 🐦 Endpoints"],
 )
 
