@@ -105,7 +105,7 @@ jobs:
           name: build registering web hook
           command: |
             source .venv/bin/activate
-            python -m lyrics_bot_playlister.cli register-webhook
+            python -m lyrics_bot_playlister.cli manage-webhooks
 workflows:
   version: 2
   pipeline:

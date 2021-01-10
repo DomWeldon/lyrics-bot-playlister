@@ -138,7 +138,7 @@ def match_recent_tweets(n: int = 100):
 
 
 @app.command()
-def register_webhook():
+def manage_webhooks():
     # make the oauth object
     twitter = requests_oauthlib.OAuth1Session(
         config.twitter_auth.CONSUMER_KEY,
@@ -148,17 +148,45 @@ def register_webhook():
     )
 
     # get the endpoint
-    webhook_endpoint = urllib.parse.quote_plus(
-        f"{config.api.INVOKE_BASE}/webhook/twitter/"
+    webhook_url = f"{config.api.INVOKE_BASE}/webhook/twitter/"
+    quoted_webhook_url = urllib.parse.quote_plus(webhook_url)
+    api_url_base = config.twitter.REGISTER_WEBHOOK_URL_BASE
+    api_create_url = f"{api_url_base}.json?url={quoted_webhook_url}"
+    webhook_url_styled = typer.style(
+        webhook_url, fg=typer.colors.BRIGHT_YELLOW
     )
-    url_base = config.twitter.REGISTER_WEBHOOK_URL_BASE
-    url = f"{url_base}?url={webhook_endpoint}"
+    typer.echo(f"Registering Web Hook at {webhook_url_styled}")
 
-    webhook_url = typer.style(url, fg=typer.colors.BRIGHT_YELLOW)
-    typer.echo(f"Registering Web Hook at {webhook_url}")
+    # get existing hooks
+    r = twitter.get(f"{api_url_base}.json")
+    assert r.status_code == 200, r
+    hooks = {h["url"]: h for h in r.json()}
+    num_hooks_styled = typer.style(
+        str(len(hooks)), fg=typer.colors.BRIGHT_CYAN
+    )
 
-    # post to the endpoint
-    r = twitter.post(url)
+    # delete ones we no longer need
+    to_delete = hooks.keys() - {webhook_url}
+    num_delete_styled = typer.style(
+        str(len(to_delete)), fg=typer.colors.BRIGHT_CYAN
+    )
+    typer.echo(
+        f"Found {num_hooks_styled} existing hooks,"
+        f" deleting {num_delete_styled}"
+    )
 
-    print(r.status_code)
-    print(r.json())
+    for k in to_delete:
+        hook = hooks[k]
+        delete_url_styled = typer.style(
+            hook["url"], fg=typer.colors.BRIGHT_YELLOW
+        )
+        typer.echo(f"Deleting Web Hook at {delete_url_styled}")
+        r = twitter.delete(f"{api_url_base}/{hook['id']}.json")
+        assert r.status_code == 204
+
+    if webhook_url not in hooks:
+        typer.echo("Registering Web Hook")
+        r = twitter.post(api_create_url)
+        assert r.status_code == 200
+
+    typer.echo(typer.style("Done", fg=typer.colors.BRIGHT_GREEN))
