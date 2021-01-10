@@ -12,6 +12,11 @@ assert CONFIG_FILE_PATH.exists()
 config = toml.load(CONFIG_FILE_PATH)["lyrics-bot-playlister"]
 
 # convenience attributes
+api = type(
+    "ConfigAttrs",
+    (object,),
+    {k: os.environ.get(f"API_{k}") for k in {"ROOT_PATH"}},
+)
 lyrics = type(
     "ConfigAttrs",
     (object,),

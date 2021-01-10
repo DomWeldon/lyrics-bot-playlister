@@ -6,9 +6,10 @@ import mangum
 import sentry_sdk
 from sentry_sdk.integrations.asgi import SentryAsgiMiddleware
 
+from .. import config
 from . import twitter
 
-app = fastapi.FastAPI()
+app = fastapi.FastAPI(root_path=config.api.ROOT_PATH)
 
 # register sentry
 SENTRY_DSN = os.environ.get("SENTRY_DSN")
