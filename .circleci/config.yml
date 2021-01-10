@@ -92,7 +92,7 @@ jobs:
           name: deploy fastapi_asgi artefact
           command: |
             source .venv/bin/activate
-            LAMBDA_KEY=fastapi_asgi python -m scripts.deploy_lambda
+            LAMBDA_KEY=asgi python -m scripts.deploy_lambda
 workflows:
   version: 2
   pipeline:
