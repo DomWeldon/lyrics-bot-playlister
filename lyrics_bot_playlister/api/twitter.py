@@ -29,3 +29,16 @@ async def crc_challenge(
     response_token = base64.b64encode(sha256_hash_digest).decode("utf8")
 
     return {"response_token": f"sha256={response_token}"}
+
+
+@router.post("/")
+async def webhook(
+    crc_token: str,
+    request: fastapi.Request,
+    config: object = fastapi.Depends(deps.config),
+    verify_webhook_origin_twitter: None = fastapi.Depends(
+        deps.verify_webhook_origin_twitter
+    ),
+) -> typing.Dict[str, str]:
+    """Handle incoming twitter events"""
+    print(request)
