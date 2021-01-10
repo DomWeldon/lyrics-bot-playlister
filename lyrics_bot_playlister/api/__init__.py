@@ -21,7 +21,7 @@ def read_root() -> typing.Dict[str, typing.List[str]]:
     return {"I dreamed about you for": ["Year"] * 29}
 
 
-@app.get("/")
+@app.get("/error")
 def mock_error() -> None:
     # explain everything to the geeks in Sentry
     raise Exception(
