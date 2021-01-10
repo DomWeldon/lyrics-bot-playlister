@@ -12,6 +12,7 @@ BranchName = NewType("BranchName", str)
 EnvVarKey = NewType("EnvVarKey", str)
 LambdaFunctionAlias = NewType("LambdaFunctionAlias", str)
 LambdaFunctionVersion = NewType("LambdaFunctionVersion", str)
+LambdaKey = NewType("LambdaKey", str)
 PartialSsmParamName = NewType("PartialSsmParamName", str)
 ProjectName = NewType("ProjectName", str)
 RoleArn = NewType("RoleArn", str)
@@ -71,6 +72,7 @@ def deploy_lambda(
     ssm_client,
     lambda_client,
     s3_client,
+    lambda_key: LambdaKey,
     project_name: ProjectName,
     branch_name: BranchName,
     our_lambda_ref: PartialSsmParamName,
@@ -111,6 +113,7 @@ def deploy_lambda(
 def main() -> None:
     """Deploy the lambda function."""
     # get relevant role ARN for this environment (dev/prod) from envvars
+    lambda_key = ProjectName(environ["LAMBDA_KEY"])
     project_name = ProjectName(environ["PROJECT_NAME"])
     branch_name = BranchName(environ["CIRCLE_BRANCH"])
     role_arn = get_branch_specific_arn(branch_name)
@@ -161,14 +164,15 @@ def main() -> None:
         "lambda", region_name=aws_region_name, **credentials_values
     )
 
-    print("Deploying fastapi_asgi Lambda")
+    print("Deploying Lambda")
     deploy_lambda(
         ssm_client,
         lambda_client,
         s3_client,
+        lambda_key,
         project_name,
         branch_name,
-        PartialSsmParamName("fastapi_asgi"),
+        PartialSsmParamName(lambda_key),
         Path("./artefact.zip"),
     )
 
