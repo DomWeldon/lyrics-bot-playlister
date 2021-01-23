@@ -24,9 +24,9 @@ def handler(event, context):
     song = message["song"]
 
     tweet = (
-        f"@{message['username']} ",
+        f"@{message['username']} "
         f"🎵 {song['title']}\n"
-        f"💿 {song['album_title']} ({song['release_year']})",
+        f"💿 {song['album_title']} ({song['release_year']})"
     )
     status = api.update_status(
         tweet,
