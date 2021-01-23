@@ -52,6 +52,8 @@ data "aws_iam_policy_document" "ci" {
     resources = [
       module.fastapi_asgi_lambda.source_bucket_arn,
       "${module.fastapi_asgi_lambda.source_bucket_arn}/*",
+      module.tweet_query_lambda.source_bucket_arn,
+      "${module.tweet_query_lambda.source_bucket_arn}/*",
     ]
   }
 
@@ -66,6 +68,8 @@ data "aws_iam_policy_document" "ci" {
     resources = [
       module.fastapi_asgi_lambda.lambda_arn,
       "${module.fastapi_asgi_lambda.lambda_arn}/*",
+      module.tweet_query_lambda.lambda_arn,
+      "${module.tweet_query_lambda.lambda_arn}/*",
     ]
   }
 
@@ -79,9 +83,14 @@ data "aws_iam_policy_document" "ci" {
     ]
 
     resources = [
+      # asgi
       aws_ssm_parameter.asgi_lambda_arn.arn,
       aws_ssm_parameter.asgi_source_bucket_id.arn,
       aws_ssm_parameter.asgi_source_key.arn,
+      # tweet query
+      aws_ssm_parameter.tweet_query_lambda_arn.arn,
+      aws_ssm_parameter.tweet_query_source_bucket_id.arn,
+      aws_ssm_parameter.tweet_query_source_key.arn,
     ]
   }
 }

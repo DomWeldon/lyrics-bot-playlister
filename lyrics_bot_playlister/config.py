@@ -22,6 +22,11 @@ lyrics = type(
     (object,),
     {k.upper(): v for k, v in config["lyrics"].items()},
 )
+s3 = type(
+    "ConfigAttrs",
+    (object,),
+    {k: os.environ.get(f"S3_{k}") for k in {"LYRICS_BUCKET", "LYRICS_KEY"}},
+)
 scraper = type(
     "ConfigAttrs",
     (object,),

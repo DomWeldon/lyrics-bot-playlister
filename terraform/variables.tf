@@ -8,6 +8,7 @@ variable "environment_name" {
   description = "Name of the environment"
 }
 
+// lambda for powering the API to respond to tweets
 variable "asgi_fn_handler" {
   type        = string
   description = "Handler for the ASGI lambda function"
@@ -16,6 +17,22 @@ variable "asgi_fn_handler" {
 variable "asgi_fn_name" {
   type        = string
   description = "Name for the ASGI lambda function"
+}
+
+// lambda to query for tweets
+variable "tweet_query_fn_handler" {
+  type        = string
+  description = "Handler for the ASGI lambda function"
+}
+
+variable "tweet_query_fn_name" {
+  type        = string
+  description = "Name for the ASGI lambda function"
+}
+
+variable "tweet_query_cron" {
+  type        = string
+  description = "How frequently to query for new tweets"
 }
 
 variable "tags" {
@@ -76,5 +93,19 @@ variable "twitter_access_token" {
   type = string
 }
 variable "twitter_access_token_secret" {
+  type = string
+}
+
+// need to store the lyrics somewhere
+variable "lyrics_s3_bucket_name" {
+  type = string
+}
+
+variable "lyrics_s3_key" {
+  default = "all-songs.yml"
+  type    = string
+}
+
+variable "lyrics_file_path" {
   type = string
 }
