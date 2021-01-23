@@ -54,6 +54,8 @@ data "aws_iam_policy_document" "ci" {
       "${module.fastapi_asgi_lambda.source_bucket_arn}/*",
       module.tweet_query_lambda.source_bucket_arn,
       "${module.tweet_query_lambda.source_bucket_arn}/*",
+      module.tweet_lambda.source_bucket_arn,
+      "${module.tweet_lambda.source_bucket_arn}/*",
     ]
   }
 

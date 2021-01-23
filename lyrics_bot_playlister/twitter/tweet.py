@@ -1,11 +1,12 @@
 """Consume the queue and tweet out song names."""
+import json
 import os
 
 import sentry_sdk
 from sentry_sdk.integrations.aws_lambda import AwsLambdaIntegration
 
 # from .. import config
-# from . import api
+from . import api
 
 # register sentry
 SENTRY_DSN = os.environ.get("SENTRY_DSN")
@@ -17,4 +18,12 @@ if SENTRY_DSN is not None and len(SENTRY_DSN):
 
 
 def handler(event, context):
-    print(event, context)
+    message = json.loads(event["Records"][0]["body"])
+    print(message)
+
+    song = message["song"]
+
+    tweet = (
+        f"🎵 {song['title']}, {song['album_title']} ({song['release_year']})"
+    )
+    api.update_status(tweet)

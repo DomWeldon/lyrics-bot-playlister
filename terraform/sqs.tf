@@ -19,3 +19,23 @@ resource "aws_lambda_permission" "allows_sqs_to_trigger_lambda" {
   principal     = "sqs.amazonaws.com"
   source_arn    = aws_sqs_queue.tweets.arn
 }
+
+data "aws_iam_policy_document" "queue_consumer_sqs" {
+  statement {
+    effect = "Allow"
+
+    resources = [aws_sqs_queue.tweets.arn]
+
+    actions = [
+      "sqs:DeleteMessage",
+      "sqs:ReceiveMessage",
+      "sqs:GetQueueAttributes"
+    ]
+  }
+}
+
+resource "aws_iam_role_policy" "queue_consumer_sqs" {
+  name   = "${var.project_name}-${var.environment_name}-queue-consumer-sqs"
+  role   = module.tweet_lambda.lambda_execution_role_id
+  policy = data.aws_iam_policy_document.queue_consumer_sqs.json
+}
