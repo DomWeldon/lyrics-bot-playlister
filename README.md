@@ -1,3 +1,5 @@
+![CircleCI](https://circleci.com/gh/DomWeldon/lyrics-bot-playlister/tree/master.svg?style=svg)
+
 # Lyrics Bot Playlister
 
 _A serverless twitter bot, used to power [@nationalbot_the](https://twitter.com/nationalbot_the)._
