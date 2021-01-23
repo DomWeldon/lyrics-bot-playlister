@@ -88,3 +88,6 @@ def handler(event, context) -> None:
     if matched_songs:
         song = matched_songs[0]
         _put_song_into_sqs(tweet, song)
+
+    else:
+        sentry_sdk.capture_exception(Exception(tweet))
