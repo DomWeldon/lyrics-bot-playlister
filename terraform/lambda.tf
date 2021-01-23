@@ -46,5 +46,8 @@ module "tweet_query_lambda" {
     # s3
     S3_LYRICS_BUCKET = aws_s3_bucket.lyrics.id
     S3_LYRICS_KEY    = var.lyrics_s3_key
+    # sqs
+    SQS_QUEUE_NAME  = aws_sqs_queue.tweets.name
+    SQS_REGION_NAME = var.aws_region
   }]
 }

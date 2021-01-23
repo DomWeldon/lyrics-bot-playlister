@@ -2,7 +2,7 @@
 # the policy for the CI role
 data "aws_iam_policy_document" "lambda_lyrics_s3" {
 
-  # allow CI role to upload to lambda buckets for all three functions
+  # allow lambda to get document out of S3
   statement {
     effect = "Allow"
 
@@ -15,6 +15,21 @@ data "aws_iam_policy_document" "lambda_lyrics_s3" {
     resources = [
       aws_s3_bucket.lyrics.arn,
       "${aws_s3_bucket.lyrics.arn}/${aws_s3_bucket_object.lyrics.id}",
+    ]
+  }
+
+  # also allow it to put jobs into the queue
+  statement {
+    effect = "Allow"
+
+    actions = [
+      "sqs:SendMessage",
+      "sqs:GetQueueAttributes",
+      "sqs:GetQueueUrl",
+    ]
+
+    resources = [
+      aws_sqs_queue.tweets.arn
     ]
   }
 }

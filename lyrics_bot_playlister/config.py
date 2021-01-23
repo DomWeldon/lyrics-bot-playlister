@@ -11,6 +11,9 @@ assert CONFIG_FILE_PATH.exists()
 
 config = toml.load(CONFIG_FILE_PATH)["lyrics-bot-playlister"]
 
+ENVIRONMENT_NAME = os.environ.get("ENVIRONMENT_NAME")
+PROJECT_NAME = os.environ.get("PROJECT_NAME")
+
 # convenience attributes
 api = type(
     "ConfigAttrs",
@@ -26,6 +29,11 @@ s3 = type(
     "ConfigAttrs",
     (object,),
     {k: os.environ.get(f"S3_{k}") for k in {"LYRICS_BUCKET", "LYRICS_KEY"}},
+)
+sqs = type(
+    "ConfigAttrs",
+    (object,),
+    {k: os.environ.get(f"SQS_{k}") for k in {"QUEUE_NAME", "REGION_NAME"}},
 )
 scraper = type(
     "ConfigAttrs",
