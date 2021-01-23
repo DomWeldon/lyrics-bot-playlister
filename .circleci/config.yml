@@ -155,6 +155,15 @@ workflows:
           filters:
               branches:
                   only: prod
+      - deploy-tweet-query-lambda:
+          requires:
+            - format
+            - lint
+            - sort
+            - test
+          filters:
+              branches:
+                  only: prod
       - register-twitter-webhook:
           requires:
             - deploy-fastapi-asgi-lambda
