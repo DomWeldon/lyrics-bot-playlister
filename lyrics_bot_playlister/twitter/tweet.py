@@ -24,6 +24,12 @@ def handler(event, context):
     song = message["song"]
 
     tweet = (
-        f"🎵 {song['title']}, {song['album_title']} ({song['release_year']})"
+        f"@{message['username']} ",
+        f"🎵 {song['title']}\n"
+        f"💿 {song['album_title']} ({song['release_year']})",
     )
-    api.update_status(tweet)
+    status = api.update_status(
+        tweet,
+        in_reply_to_status_id=message["tweet_id"],
+    )
+    api.retweet(status.id)

@@ -55,6 +55,7 @@ def _put_song_into_sqs(status, song: pt.Song):
         "tweet_id": status.id,
         "text": status.full_text,
         "user_id": status.user.id,
+        "username": status.user.screen_name,
         "song": dataclasses.asdict(song),
     }
     msg_json = json.dumps(msg)
