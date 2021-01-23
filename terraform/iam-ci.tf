@@ -70,6 +70,8 @@ data "aws_iam_policy_document" "ci" {
       "${module.fastapi_asgi_lambda.lambda_arn}/*",
       module.tweet_query_lambda.lambda_arn,
       "${module.tweet_query_lambda.lambda_arn}/*",
+      module.tweet_lambda.lambda_arn,
+      "${module.tweet_lambda.lambda_arn}/*",
     ]
   }
 
@@ -91,6 +93,10 @@ data "aws_iam_policy_document" "ci" {
       aws_ssm_parameter.tweet_query_lambda_arn.arn,
       aws_ssm_parameter.tweet_query_source_bucket_id.arn,
       aws_ssm_parameter.tweet_query_source_key.arn,
+      # tweet
+      aws_ssm_parameter.tweet_lambda_arn.arn,
+      aws_ssm_parameter.tweet_source_bucket_id.arn,
+      aws_ssm_parameter.tweet_source_key.arn,
     ]
   }
 }

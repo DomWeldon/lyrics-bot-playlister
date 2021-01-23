@@ -129,6 +129,29 @@ jobs:
           command: |
             source .venv/bin/activate
             LAMBDA_KEY=tweet_query python -m scripts.deploy_lambda
+  deploy-tweet-lambda:
+    working_directory: ~/repo
+    docker:
+      - image: circleci/python:3.8.6
+    steps:
+      - checkout
+      - restore_cache:
+          key: venv-cache-{{ checksum "poetry.lock" }}-{{ checksum "poetry.toml" }}
+      - run:
+          name: build artefact
+          command: |
+            cd lyrics_bot_playlister
+            poetry export -f requirements.txt > ../requirements.txt
+            cd ..
+            touch __init__.py
+            pip install --target ./ -r requirements.txt
+            zip -r9 artefact.zip ./* ./.libs_cffi_backend/
+            ls -lah | grep artefact
+      - run:
+          name: deploy fastapi_asgi artefact
+          command: |
+            source .venv/bin/activate
+            LAMBDA_KEY=tweet python -m scripts.deploy_lambda
 workflows:
   version: 2
   pipeline:
@@ -156,6 +179,15 @@ workflows:
               branches:
                   only: prod
       - deploy-tweet-query-lambda:
+          requires:
+            - format
+            - lint
+            - sort
+            - test
+          filters:
+              branches:
+                  only: prod
+      - deploy-tweet-lambda:
           requires:
             - format
             - lint

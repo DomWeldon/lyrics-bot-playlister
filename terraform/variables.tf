@@ -22,17 +22,28 @@ variable "asgi_fn_name" {
 // lambda to query for tweets
 variable "tweet_query_fn_handler" {
   type        = string
-  description = "Handler for the ASGI lambda function"
+  description = "Handler for the twitter querying lambda function"
 }
 
 variable "tweet_query_fn_name" {
   type        = string
-  description = "Name for the ASGI lambda function"
+  description = "Name for the twitter querying lambda function"
 }
 
 variable "tweet_query_cron" {
   type        = string
   description = "How frequently to query for new tweets"
+}
+
+// outgoing tweets
+variable "tweet_fn_handler" {
+  type        = string
+  description = "Handler for the outgoing tweet lambda function"
+}
+
+variable "tweet_fn_name" {
+  type        = string
+  description = "Name for the outgoing tweet lambda function"
 }
 
 variable "tags" {
